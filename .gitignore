@@ -1,0 +1,11 @@
+*.log
+*.log.meta
+_site/
+_site.meta
+Documentation/
+obj/
+obj.meta
+docfxFix.cs
+docfxFix.cs.meta
+Ignore/
+api/
