@@ -1,0 +1,246 @@
+{
+  "sitemap": {
+    "baseUrl": "https://scream870102.github.io/UniFW/"
+  },
+  "homepages": [],
+  "source_base_path": "D:/Project/UniFW/Packages/com.cj-studio.unifw/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Scream.UniFW.Quest.IQuest-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Scream.UniFW.Quest.IQuest-1.html",
+          "hash": "oneLKfgRl4c1dELTqIxjlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Scream.UniFW.Quest.IQuest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Scream.UniFW.Quest.IQuest.html",
+          "hash": "K33BWR9xENA+7uZ+8peCqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Scream.UniFW.Quest.IQuestData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Scream.UniFW.Quest.IQuestData.html",
+          "hash": "IJe/+IwxMn+KUiRMOGATGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Scream.UniFW.Quest.QuestManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Scream.UniFW.Quest.QuestManager.html",
+          "hash": "ulH7fonWwckGulKPWRJS8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Scream.UniFW.Quest.TestQuest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Scream.UniFW.Quest.TestQuest.html",
+          "hash": "+iLeH7MuTG/HsE1ZrfUI0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Scream.UniFW.Quest.TestQuest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Scream.UniFW.Quest.TestQuest2.html",
+          "hash": "P+jvxmxfmlf1lRe8S3ephg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Scream.UniFW.Quest.TestQuest2Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Scream.UniFW.Quest.TestQuest2Data.html",
+          "hash": "l3+WlivrTmUx1Kxr2xIfOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Scream.UniFW.Quest.TestQuestData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Scream.UniFW.Quest.TestQuestData.html",
+          "hash": "cnY6hf4ltcawdD62849D6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Scream.UniFW.Quest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Scream.UniFW.Quest.html",
+          "hash": "TGsj1Ywfhg3UNW4KsO7dsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "f289Kus11B3xb4PPaHdoaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "msW37cZoffDzVRuexDC/UQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/changelog.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/changelog.html",
+          "hash": "GwzAF2FgUupOJtQk6MpTfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "Op+BbYIYUBBhiSkKOugk0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/unifw_manual.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/unifw_manual.html",
+          "hash": "DksUPtgAkdeNfWSo7tiuNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "FjCCZ3grH3KJ9yfKkwerEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 9
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

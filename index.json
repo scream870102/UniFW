@@ -1,0 +1,62 @@
+{
+  "api/Scream.UniFW.Quest.html": {
+    "href": "api/Scream.UniFW.Quest.html",
+    "title": "Namespace Scream.UniFW.Quest | UniFW",
+    "keywords": "Namespace Scream.UniFW.Quest Classes QuestManager TestQuest TestQuest2 TestQuest2Data TestQuestData Interfaces IQuest IQuest<T> IQuestData"
+  },
+  "api/Scream.UniFW.Quest.IQuest.html": {
+    "href": "api/Scream.UniFW.Quest.IQuest.html",
+    "title": "Interface IQuest | UniFW",
+    "keywords": "Interface IQuest Namespace : Scream.UniFW.Quest Assembly : cs.temp.dll.dll Syntax public interface IQuest Properties Id Declaration int Id { get; } Property Value Type Description System.Int32 IsComplete Declaration bool IsComplete { get; } Property Value Type Description System.Boolean"
+  },
+  "api/Scream.UniFW.Quest.IQuest-1.html": {
+    "href": "api/Scream.UniFW.Quest.IQuest-1.html",
+    "title": "Interface IQuest<T> | UniFW",
+    "keywords": "Interface IQuest<T> Inherited Members IQuest.Id IQuest.IsComplete Namespace : Scream.UniFW.Quest Assembly : cs.temp.dll.dll Syntax public interface IQuest<T> : IQuest where T : IQuestData Type Parameters Name Description T Methods Refresh(T) Declaration void Refresh(T data) Parameters Type Name Description T data"
+  },
+  "api/Scream.UniFW.Quest.IQuestData.html": {
+    "href": "api/Scream.UniFW.Quest.IQuestData.html",
+    "title": "Interface IQuestData | UniFW",
+    "keywords": "Interface IQuestData Namespace : Scream.UniFW.Quest Assembly : cs.temp.dll.dll Syntax public interface IQuestData"
+  },
+  "api/Scream.UniFW.Quest.QuestManager.html": {
+    "href": "api/Scream.UniFW.Quest.QuestManager.html",
+    "title": "Class QuestManager | UniFW",
+    "keywords": "Class QuestManager Inheritance System.Object QuestManager Inherited Members System.Object.ToString() System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.ReferenceEquals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() Namespace : Scream.UniFW.Quest Assembly : cs.temp.dll.dll Syntax public static class QuestManager Fields Quests Declaration public static Dictionary<Type, Dictionary<int, IQuest>> Quests Field Value Type Description Dictionary < Type , Dictionary < System.Int32 , IQuest >> Methods AddQuest<QuestType>(QuestType) Declaration public static void AddQuest<QuestType>(QuestType quest) where QuestType : IQuest Parameters Type Name Description QuestType quest Type Parameters Name Description QuestType AddQuest<QuestType, DataType>(QuestType) Declaration public static void AddQuest<QuestType, DataType>(QuestType quest) where QuestType : IQuest<DataType> where DataType : IQuestData Parameters Type Name Description QuestType quest Type Parameters Name Description QuestType DataType RefreshQuest<DataType>(DataType) Declaration public static void RefreshQuest<DataType>(DataType data) where DataType : IQuestData Parameters Type Name Description DataType data Type Parameters Name Description DataType RemoveQuest(IQuest) Declaration public static void RemoveQuest(IQuest quest) Parameters Type Name Description IQuest quest RemoveQuest<QuestType>(Int32) Declaration public static void RemoveQuest<QuestType>(int id) where QuestType : IQuest Parameters Type Name Description System.Int32 id Type Parameters Name Description QuestType RemoveQuest<QuestType, DataType>(QuestType) Declaration public static void RemoveQuest<QuestType, DataType>(QuestType quest) where QuestType : IQuest<DataType> where DataType : IQuestData Parameters Type Name Description QuestType quest Type Parameters Name Description QuestType DataType RemoveQuest<QuestType, DataType>(Int32) Declaration public static void RemoveQuest<QuestType, DataType>(int id) where QuestType : IQuest<DataType> where DataType : IQuestData Parameters Type Name Description System.Int32 id Type Parameters Name Description QuestType DataType TryGetQuest<QuestType>(Int32, out QuestType) Declaration public static bool TryGetQuest<QuestType>(int id, out QuestType result) where QuestType : IQuest Parameters Type Name Description System.Int32 id QuestType result Returns Type Description System.Boolean Type Parameters Name Description QuestType TryGetQuest<QuestType, DataType>(Int32, out QuestType) Declaration public static bool TryGetQuest<QuestType, DataType>(int id, out QuestType result) where QuestType : IQuest<DataType> where DataType : IQuestData Parameters Type Name Description System.Int32 id QuestType result Returns Type Description System.Boolean Type Parameters Name Description QuestType DataType Events OnQuestCompleted Declaration public static event Action<IQuest> OnQuestCompleted Event Type Type Description Action < IQuest >"
+  },
+  "api/Scream.UniFW.Quest.TestQuest.html": {
+    "href": "api/Scream.UniFW.Quest.TestQuest.html",
+    "title": "Class TestQuest | UniFW",
+    "keywords": "Class TestQuest Inheritance System.Object TestQuest Implements IQuest < TestQuestData > IQuest Inherited Members System.Object.ToString() System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.ReferenceEquals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() Namespace : Scream.UniFW.Quest Assembly : cs.temp.dll.dll Syntax public class TestQuest : IQuest<TestQuestData>, IQuest Constructors TestQuest(Int32) Declaration public TestQuest(int remain) Parameters Type Name Description System.Int32 remain Properties Id Declaration public int Id { get; } Property Value Type Description System.Int32 IsComplete Declaration public bool IsComplete { get; } Property Value Type Description System.Boolean Remain Declaration public int Remain { get; } Property Value Type Description System.Int32 Methods Refresh(TestQuestData) Declaration public void Refresh(TestQuestData data) Parameters Type Name Description TestQuestData data Implements IQuest<T> IQuest"
+  },
+  "api/Scream.UniFW.Quest.TestQuest2.html": {
+    "href": "api/Scream.UniFW.Quest.TestQuest2.html",
+    "title": "Class TestQuest2 | UniFW",
+    "keywords": "Class TestQuest2 Inheritance System.Object TestQuest2 Implements IQuest < TestQuest2Data > IQuest Inherited Members System.Object.ToString() System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.ReferenceEquals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() Namespace : Scream.UniFW.Quest Assembly : cs.temp.dll.dll Syntax public class TestQuest2 : IQuest<TestQuest2Data>, IQuest Constructors TestQuest2(String) Declaration public TestQuest2(string initState) Parameters Type Name Description System.String initState Properties Id Declaration public int Id { get; } Property Value Type Description System.Int32 IsComplete Declaration public bool IsComplete { get; } Property Value Type Description System.Boolean State Declaration public string State { get; } Property Value Type Description System.String Methods Refresh(TestQuest2Data) Declaration public void Refresh(TestQuest2Data data) Parameters Type Name Description TestQuest2Data data Implements IQuest<T> IQuest"
+  },
+  "api/Scream.UniFW.Quest.TestQuest2Data.html": {
+    "href": "api/Scream.UniFW.Quest.TestQuest2Data.html",
+    "title": "Class TestQuest2Data | UniFW",
+    "keywords": "Class TestQuest2Data Inheritance System.Object TestQuest2Data Implements IQuestData Inherited Members System.Object.ToString() System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.ReferenceEquals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() Namespace : Scream.UniFW.Quest Assembly : cs.temp.dll.dll Syntax public class TestQuest2Data : IQuestData Constructors TestQuest2Data(String) Declaration public TestQuest2Data(string state) Parameters Type Name Description System.String state Properties State Declaration public string State { get; } Property Value Type Description System.String Implements IQuestData"
+  },
+  "api/Scream.UniFW.Quest.TestQuestData.html": {
+    "href": "api/Scream.UniFW.Quest.TestQuestData.html",
+    "title": "Class TestQuestData | UniFW",
+    "keywords": "Class TestQuestData Inheritance System.Object TestQuestData Implements IQuestData Inherited Members System.Object.ToString() System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.ReferenceEquals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() Namespace : Scream.UniFW.Quest Assembly : cs.temp.dll.dll Syntax public class TestQuestData : IQuestData Constructors TestQuestData(Int32) Declaration public TestQuestData(int count) Parameters Type Name Description System.Int32 count Properties Count Declaration public int Count { get; } Property Value Type Description System.Int32 Implements IQuestData"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "UniFW | UniFW",
+    "keywords": "UniFW Framework for Unity API References UniFW's API References are hosted at scream870102.github.io/UniFW by DocFX License This library is under the MIT License ."
+  },
+  "manual/changelog.html": {
+    "href": "manual/changelog.html",
+    "title": "Changelog | UniFW",
+    "keywords": "Changelog 0.1.0 Add QuestSystem"
+  },
+  "manual/unifw_manual.html": {
+    "href": "manual/unifw_manual.html",
+    "title": "UniFW Manual | UniFW",
+    "keywords": "UniFW Manual UNDER CONSTRUCTION"
+  }
+}

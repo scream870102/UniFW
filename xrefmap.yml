@@ -1,0 +1,403 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Scream.UniFW.Quest
+  name: Scream.UniFW.Quest
+  href: api/Scream.UniFW.Quest.html
+  commentId: N:Scream.UniFW.Quest
+  fullName: Scream.UniFW.Quest
+  nameWithType: Scream.UniFW.Quest
+- uid: Scream.UniFW.Quest.IQuest
+  name: IQuest
+  href: api/Scream.UniFW.Quest.IQuest.html
+  commentId: T:Scream.UniFW.Quest.IQuest
+  fullName: Scream.UniFW.Quest.IQuest
+  nameWithType: IQuest
+- uid: Scream.UniFW.Quest.IQuest.Id
+  name: Id
+  href: api/Scream.UniFW.Quest.IQuest.html#Scream_UniFW_Quest_IQuest_Id
+  commentId: P:Scream.UniFW.Quest.IQuest.Id
+  fullName: Scream.UniFW.Quest.IQuest.Id
+  nameWithType: IQuest.Id
+- uid: Scream.UniFW.Quest.IQuest.Id*
+  name: Id
+  href: api/Scream.UniFW.Quest.IQuest.html#Scream_UniFW_Quest_IQuest_Id_
+  commentId: Overload:Scream.UniFW.Quest.IQuest.Id
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.IQuest.Id
+  nameWithType: IQuest.Id
+- uid: Scream.UniFW.Quest.IQuest.IsComplete
+  name: IsComplete
+  href: api/Scream.UniFW.Quest.IQuest.html#Scream_UniFW_Quest_IQuest_IsComplete
+  commentId: P:Scream.UniFW.Quest.IQuest.IsComplete
+  fullName: Scream.UniFW.Quest.IQuest.IsComplete
+  nameWithType: IQuest.IsComplete
+- uid: Scream.UniFW.Quest.IQuest.IsComplete*
+  name: IsComplete
+  href: api/Scream.UniFW.Quest.IQuest.html#Scream_UniFW_Quest_IQuest_IsComplete_
+  commentId: Overload:Scream.UniFW.Quest.IQuest.IsComplete
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.IQuest.IsComplete
+  nameWithType: IQuest.IsComplete
+- uid: Scream.UniFW.Quest.IQuest`1
+  name: IQuest<T>
+  href: api/Scream.UniFW.Quest.IQuest-1.html
+  commentId: T:Scream.UniFW.Quest.IQuest`1
+  name.vb: IQuest(Of T)
+  fullName: Scream.UniFW.Quest.IQuest<T>
+  fullName.vb: Scream.UniFW.Quest.IQuest(Of T)
+  nameWithType: IQuest<T>
+  nameWithType.vb: IQuest(Of T)
+- uid: Scream.UniFW.Quest.IQuest`1.Refresh(`0)
+  name: Refresh(T)
+  href: api/Scream.UniFW.Quest.IQuest-1.html#Scream_UniFW_Quest_IQuest_1_Refresh__0_
+  commentId: M:Scream.UniFW.Quest.IQuest`1.Refresh(`0)
+  fullName: Scream.UniFW.Quest.IQuest<T>.Refresh(T)
+  fullName.vb: Scream.UniFW.Quest.IQuest(Of T).Refresh(T)
+  nameWithType: IQuest<T>.Refresh(T)
+  nameWithType.vb: IQuest(Of T).Refresh(T)
+- uid: Scream.UniFW.Quest.IQuest`1.Refresh*
+  name: Refresh
+  href: api/Scream.UniFW.Quest.IQuest-1.html#Scream_UniFW_Quest_IQuest_1_Refresh_
+  commentId: Overload:Scream.UniFW.Quest.IQuest`1.Refresh
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.IQuest<T>.Refresh
+  fullName.vb: Scream.UniFW.Quest.IQuest(Of T).Refresh
+  nameWithType: IQuest<T>.Refresh
+  nameWithType.vb: IQuest(Of T).Refresh
+- uid: Scream.UniFW.Quest.IQuestData
+  name: IQuestData
+  href: api/Scream.UniFW.Quest.IQuestData.html
+  commentId: T:Scream.UniFW.Quest.IQuestData
+  fullName: Scream.UniFW.Quest.IQuestData
+  nameWithType: IQuestData
+- uid: Scream.UniFW.Quest.QuestManager
+  name: QuestManager
+  href: api/Scream.UniFW.Quest.QuestManager.html
+  commentId: T:Scream.UniFW.Quest.QuestManager
+  fullName: Scream.UniFW.Quest.QuestManager
+  nameWithType: QuestManager
+- uid: Scream.UniFW.Quest.QuestManager.AddQuest*
+  name: AddQuest
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_AddQuest_
+  commentId: Overload:Scream.UniFW.Quest.QuestManager.AddQuest
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.QuestManager.AddQuest
+  nameWithType: QuestManager.AddQuest
+- uid: Scream.UniFW.Quest.QuestManager.AddQuest``1(``0)
+  name: AddQuest<QuestType>(QuestType)
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_AddQuest__1___0_
+  commentId: M:Scream.UniFW.Quest.QuestManager.AddQuest``1(``0)
+  name.vb: AddQuest(Of QuestType)(QuestType)
+  fullName: Scream.UniFW.Quest.QuestManager.AddQuest<QuestType>(QuestType)
+  fullName.vb: Scream.UniFW.Quest.QuestManager.AddQuest(Of QuestType)(QuestType)
+  nameWithType: QuestManager.AddQuest<QuestType>(QuestType)
+  nameWithType.vb: QuestManager.AddQuest(Of QuestType)(QuestType)
+- uid: Scream.UniFW.Quest.QuestManager.AddQuest``2(``0)
+  name: AddQuest<QuestType, DataType>(QuestType)
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_AddQuest__2___0_
+  commentId: M:Scream.UniFW.Quest.QuestManager.AddQuest``2(``0)
+  name.vb: AddQuest(Of QuestType, DataType)(QuestType)
+  fullName: Scream.UniFW.Quest.QuestManager.AddQuest<QuestType, DataType>(QuestType)
+  fullName.vb: Scream.UniFW.Quest.QuestManager.AddQuest(Of QuestType, DataType)(QuestType)
+  nameWithType: QuestManager.AddQuest<QuestType, DataType>(QuestType)
+  nameWithType.vb: QuestManager.AddQuest(Of QuestType, DataType)(QuestType)
+- uid: Scream.UniFW.Quest.QuestManager.OnQuestCompleted
+  name: OnQuestCompleted
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_OnQuestCompleted
+  commentId: E:Scream.UniFW.Quest.QuestManager.OnQuestCompleted
+  fullName: Scream.UniFW.Quest.QuestManager.OnQuestCompleted
+  nameWithType: QuestManager.OnQuestCompleted
+- uid: Scream.UniFW.Quest.QuestManager.Quests
+  name: Quests
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_Quests
+  commentId: F:Scream.UniFW.Quest.QuestManager.Quests
+  fullName: Scream.UniFW.Quest.QuestManager.Quests
+  nameWithType: QuestManager.Quests
+- uid: Scream.UniFW.Quest.QuestManager.RefreshQuest*
+  name: RefreshQuest
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_RefreshQuest_
+  commentId: Overload:Scream.UniFW.Quest.QuestManager.RefreshQuest
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.QuestManager.RefreshQuest
+  nameWithType: QuestManager.RefreshQuest
+- uid: Scream.UniFW.Quest.QuestManager.RefreshQuest``1(``0)
+  name: RefreshQuest<DataType>(DataType)
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_RefreshQuest__1___0_
+  commentId: M:Scream.UniFW.Quest.QuestManager.RefreshQuest``1(``0)
+  name.vb: RefreshQuest(Of DataType)(DataType)
+  fullName: Scream.UniFW.Quest.QuestManager.RefreshQuest<DataType>(DataType)
+  fullName.vb: Scream.UniFW.Quest.QuestManager.RefreshQuest(Of DataType)(DataType)
+  nameWithType: QuestManager.RefreshQuest<DataType>(DataType)
+  nameWithType.vb: QuestManager.RefreshQuest(Of DataType)(DataType)
+- uid: Scream.UniFW.Quest.QuestManager.RemoveQuest(Scream.UniFW.Quest.IQuest)
+  name: RemoveQuest(IQuest)
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_RemoveQuest_Scream_UniFW_Quest_IQuest_
+  commentId: M:Scream.UniFW.Quest.QuestManager.RemoveQuest(Scream.UniFW.Quest.IQuest)
+  fullName: Scream.UniFW.Quest.QuestManager.RemoveQuest(Scream.UniFW.Quest.IQuest)
+  nameWithType: QuestManager.RemoveQuest(IQuest)
+- uid: Scream.UniFW.Quest.QuestManager.RemoveQuest*
+  name: RemoveQuest
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_RemoveQuest_
+  commentId: Overload:Scream.UniFW.Quest.QuestManager.RemoveQuest
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.QuestManager.RemoveQuest
+  nameWithType: QuestManager.RemoveQuest
+- uid: Scream.UniFW.Quest.QuestManager.RemoveQuest``1(System.Int32)
+  name: RemoveQuest<QuestType>(Int32)
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_RemoveQuest__1_System_Int32_
+  commentId: M:Scream.UniFW.Quest.QuestManager.RemoveQuest``1(System.Int32)
+  name.vb: RemoveQuest(Of QuestType)(Int32)
+  fullName: Scream.UniFW.Quest.QuestManager.RemoveQuest<QuestType>(System.Int32)
+  fullName.vb: Scream.UniFW.Quest.QuestManager.RemoveQuest(Of QuestType)(System.Int32)
+  nameWithType: QuestManager.RemoveQuest<QuestType>(Int32)
+  nameWithType.vb: QuestManager.RemoveQuest(Of QuestType)(Int32)
+- uid: Scream.UniFW.Quest.QuestManager.RemoveQuest``2(``0)
+  name: RemoveQuest<QuestType, DataType>(QuestType)
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_RemoveQuest__2___0_
+  commentId: M:Scream.UniFW.Quest.QuestManager.RemoveQuest``2(``0)
+  name.vb: RemoveQuest(Of QuestType, DataType)(QuestType)
+  fullName: Scream.UniFW.Quest.QuestManager.RemoveQuest<QuestType, DataType>(QuestType)
+  fullName.vb: Scream.UniFW.Quest.QuestManager.RemoveQuest(Of QuestType, DataType)(QuestType)
+  nameWithType: QuestManager.RemoveQuest<QuestType, DataType>(QuestType)
+  nameWithType.vb: QuestManager.RemoveQuest(Of QuestType, DataType)(QuestType)
+- uid: Scream.UniFW.Quest.QuestManager.RemoveQuest``2(System.Int32)
+  name: RemoveQuest<QuestType, DataType>(Int32)
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_RemoveQuest__2_System_Int32_
+  commentId: M:Scream.UniFW.Quest.QuestManager.RemoveQuest``2(System.Int32)
+  name.vb: RemoveQuest(Of QuestType, DataType)(Int32)
+  fullName: Scream.UniFW.Quest.QuestManager.RemoveQuest<QuestType, DataType>(System.Int32)
+  fullName.vb: Scream.UniFW.Quest.QuestManager.RemoveQuest(Of QuestType, DataType)(System.Int32)
+  nameWithType: QuestManager.RemoveQuest<QuestType, DataType>(Int32)
+  nameWithType.vb: QuestManager.RemoveQuest(Of QuestType, DataType)(Int32)
+- uid: Scream.UniFW.Quest.QuestManager.TryGetQuest*
+  name: TryGetQuest
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_TryGetQuest_
+  commentId: Overload:Scream.UniFW.Quest.QuestManager.TryGetQuest
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.QuestManager.TryGetQuest
+  nameWithType: QuestManager.TryGetQuest
+- uid: Scream.UniFW.Quest.QuestManager.TryGetQuest``1(System.Int32,``0@)
+  name: TryGetQuest<QuestType>(Int32, out QuestType)
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_TryGetQuest__1_System_Int32___0__
+  commentId: M:Scream.UniFW.Quest.QuestManager.TryGetQuest``1(System.Int32,``0@)
+  name.vb: TryGetQuest(Of QuestType)(Int32, ByRef QuestType)
+  fullName: Scream.UniFW.Quest.QuestManager.TryGetQuest<QuestType>(System.Int32, out QuestType)
+  fullName.vb: Scream.UniFW.Quest.QuestManager.TryGetQuest(Of QuestType)(System.Int32, ByRef QuestType)
+  nameWithType: QuestManager.TryGetQuest<QuestType>(Int32, out QuestType)
+  nameWithType.vb: QuestManager.TryGetQuest(Of QuestType)(Int32, ByRef QuestType)
+- uid: Scream.UniFW.Quest.QuestManager.TryGetQuest``2(System.Int32,``0@)
+  name: TryGetQuest<QuestType, DataType>(Int32, out QuestType)
+  href: api/Scream.UniFW.Quest.QuestManager.html#Scream_UniFW_Quest_QuestManager_TryGetQuest__2_System_Int32___0__
+  commentId: M:Scream.UniFW.Quest.QuestManager.TryGetQuest``2(System.Int32,``0@)
+  name.vb: TryGetQuest(Of QuestType, DataType)(Int32, ByRef QuestType)
+  fullName: Scream.UniFW.Quest.QuestManager.TryGetQuest<QuestType, DataType>(System.Int32, out QuestType)
+  fullName.vb: Scream.UniFW.Quest.QuestManager.TryGetQuest(Of QuestType, DataType)(System.Int32, ByRef QuestType)
+  nameWithType: QuestManager.TryGetQuest<QuestType, DataType>(Int32, out QuestType)
+  nameWithType.vb: QuestManager.TryGetQuest(Of QuestType, DataType)(Int32, ByRef QuestType)
+- uid: Scream.UniFW.Quest.TestQuest
+  name: TestQuest
+  href: api/Scream.UniFW.Quest.TestQuest.html
+  commentId: T:Scream.UniFW.Quest.TestQuest
+  fullName: Scream.UniFW.Quest.TestQuest
+  nameWithType: TestQuest
+- uid: Scream.UniFW.Quest.TestQuest.#ctor(System.Int32)
+  name: TestQuest(Int32)
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest__ctor_System_Int32_
+  commentId: M:Scream.UniFW.Quest.TestQuest.#ctor(System.Int32)
+  fullName: Scream.UniFW.Quest.TestQuest.TestQuest(System.Int32)
+  nameWithType: TestQuest.TestQuest(Int32)
+- uid: Scream.UniFW.Quest.TestQuest.#ctor*
+  name: TestQuest
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest__ctor_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest.#ctor
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest.TestQuest
+  nameWithType: TestQuest.TestQuest
+- uid: Scream.UniFW.Quest.TestQuest.Id
+  name: Id
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest_Id
+  commentId: P:Scream.UniFW.Quest.TestQuest.Id
+  fullName: Scream.UniFW.Quest.TestQuest.Id
+  nameWithType: TestQuest.Id
+- uid: Scream.UniFW.Quest.TestQuest.Id*
+  name: Id
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest_Id_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest.Id
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest.Id
+  nameWithType: TestQuest.Id
+- uid: Scream.UniFW.Quest.TestQuest.IsComplete
+  name: IsComplete
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest_IsComplete
+  commentId: P:Scream.UniFW.Quest.TestQuest.IsComplete
+  fullName: Scream.UniFW.Quest.TestQuest.IsComplete
+  nameWithType: TestQuest.IsComplete
+- uid: Scream.UniFW.Quest.TestQuest.IsComplete*
+  name: IsComplete
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest_IsComplete_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest.IsComplete
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest.IsComplete
+  nameWithType: TestQuest.IsComplete
+- uid: Scream.UniFW.Quest.TestQuest.Refresh(Scream.UniFW.Quest.TestQuestData)
+  name: Refresh(TestQuestData)
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest_Refresh_Scream_UniFW_Quest_TestQuestData_
+  commentId: M:Scream.UniFW.Quest.TestQuest.Refresh(Scream.UniFW.Quest.TestQuestData)
+  fullName: Scream.UniFW.Quest.TestQuest.Refresh(Scream.UniFW.Quest.TestQuestData)
+  nameWithType: TestQuest.Refresh(TestQuestData)
+- uid: Scream.UniFW.Quest.TestQuest.Refresh*
+  name: Refresh
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest_Refresh_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest.Refresh
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest.Refresh
+  nameWithType: TestQuest.Refresh
+- uid: Scream.UniFW.Quest.TestQuest.Remain
+  name: Remain
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest_Remain
+  commentId: P:Scream.UniFW.Quest.TestQuest.Remain
+  fullName: Scream.UniFW.Quest.TestQuest.Remain
+  nameWithType: TestQuest.Remain
+- uid: Scream.UniFW.Quest.TestQuest.Remain*
+  name: Remain
+  href: api/Scream.UniFW.Quest.TestQuest.html#Scream_UniFW_Quest_TestQuest_Remain_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest.Remain
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest.Remain
+  nameWithType: TestQuest.Remain
+- uid: Scream.UniFW.Quest.TestQuest2
+  name: TestQuest2
+  href: api/Scream.UniFW.Quest.TestQuest2.html
+  commentId: T:Scream.UniFW.Quest.TestQuest2
+  fullName: Scream.UniFW.Quest.TestQuest2
+  nameWithType: TestQuest2
+- uid: Scream.UniFW.Quest.TestQuest2.#ctor(System.String)
+  name: TestQuest2(String)
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2__ctor_System_String_
+  commentId: M:Scream.UniFW.Quest.TestQuest2.#ctor(System.String)
+  fullName: Scream.UniFW.Quest.TestQuest2.TestQuest2(System.String)
+  nameWithType: TestQuest2.TestQuest2(String)
+- uid: Scream.UniFW.Quest.TestQuest2.#ctor*
+  name: TestQuest2
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2__ctor_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest2.#ctor
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest2.TestQuest2
+  nameWithType: TestQuest2.TestQuest2
+- uid: Scream.UniFW.Quest.TestQuest2.Id
+  name: Id
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2_Id
+  commentId: P:Scream.UniFW.Quest.TestQuest2.Id
+  fullName: Scream.UniFW.Quest.TestQuest2.Id
+  nameWithType: TestQuest2.Id
+- uid: Scream.UniFW.Quest.TestQuest2.Id*
+  name: Id
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2_Id_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest2.Id
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest2.Id
+  nameWithType: TestQuest2.Id
+- uid: Scream.UniFW.Quest.TestQuest2.IsComplete
+  name: IsComplete
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2_IsComplete
+  commentId: P:Scream.UniFW.Quest.TestQuest2.IsComplete
+  fullName: Scream.UniFW.Quest.TestQuest2.IsComplete
+  nameWithType: TestQuest2.IsComplete
+- uid: Scream.UniFW.Quest.TestQuest2.IsComplete*
+  name: IsComplete
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2_IsComplete_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest2.IsComplete
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest2.IsComplete
+  nameWithType: TestQuest2.IsComplete
+- uid: Scream.UniFW.Quest.TestQuest2.Refresh(Scream.UniFW.Quest.TestQuest2Data)
+  name: Refresh(TestQuest2Data)
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2_Refresh_Scream_UniFW_Quest_TestQuest2Data_
+  commentId: M:Scream.UniFW.Quest.TestQuest2.Refresh(Scream.UniFW.Quest.TestQuest2Data)
+  fullName: Scream.UniFW.Quest.TestQuest2.Refresh(Scream.UniFW.Quest.TestQuest2Data)
+  nameWithType: TestQuest2.Refresh(TestQuest2Data)
+- uid: Scream.UniFW.Quest.TestQuest2.Refresh*
+  name: Refresh
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2_Refresh_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest2.Refresh
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest2.Refresh
+  nameWithType: TestQuest2.Refresh
+- uid: Scream.UniFW.Quest.TestQuest2.State
+  name: State
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2_State
+  commentId: P:Scream.UniFW.Quest.TestQuest2.State
+  fullName: Scream.UniFW.Quest.TestQuest2.State
+  nameWithType: TestQuest2.State
+- uid: Scream.UniFW.Quest.TestQuest2.State*
+  name: State
+  href: api/Scream.UniFW.Quest.TestQuest2.html#Scream_UniFW_Quest_TestQuest2_State_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest2.State
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest2.State
+  nameWithType: TestQuest2.State
+- uid: Scream.UniFW.Quest.TestQuest2Data
+  name: TestQuest2Data
+  href: api/Scream.UniFW.Quest.TestQuest2Data.html
+  commentId: T:Scream.UniFW.Quest.TestQuest2Data
+  fullName: Scream.UniFW.Quest.TestQuest2Data
+  nameWithType: TestQuest2Data
+- uid: Scream.UniFW.Quest.TestQuest2Data.#ctor(System.String)
+  name: TestQuest2Data(String)
+  href: api/Scream.UniFW.Quest.TestQuest2Data.html#Scream_UniFW_Quest_TestQuest2Data__ctor_System_String_
+  commentId: M:Scream.UniFW.Quest.TestQuest2Data.#ctor(System.String)
+  fullName: Scream.UniFW.Quest.TestQuest2Data.TestQuest2Data(System.String)
+  nameWithType: TestQuest2Data.TestQuest2Data(String)
+- uid: Scream.UniFW.Quest.TestQuest2Data.#ctor*
+  name: TestQuest2Data
+  href: api/Scream.UniFW.Quest.TestQuest2Data.html#Scream_UniFW_Quest_TestQuest2Data__ctor_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest2Data.#ctor
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest2Data.TestQuest2Data
+  nameWithType: TestQuest2Data.TestQuest2Data
+- uid: Scream.UniFW.Quest.TestQuest2Data.State
+  name: State
+  href: api/Scream.UniFW.Quest.TestQuest2Data.html#Scream_UniFW_Quest_TestQuest2Data_State
+  commentId: P:Scream.UniFW.Quest.TestQuest2Data.State
+  fullName: Scream.UniFW.Quest.TestQuest2Data.State
+  nameWithType: TestQuest2Data.State
+- uid: Scream.UniFW.Quest.TestQuest2Data.State*
+  name: State
+  href: api/Scream.UniFW.Quest.TestQuest2Data.html#Scream_UniFW_Quest_TestQuest2Data_State_
+  commentId: Overload:Scream.UniFW.Quest.TestQuest2Data.State
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuest2Data.State
+  nameWithType: TestQuest2Data.State
+- uid: Scream.UniFW.Quest.TestQuestData
+  name: TestQuestData
+  href: api/Scream.UniFW.Quest.TestQuestData.html
+  commentId: T:Scream.UniFW.Quest.TestQuestData
+  fullName: Scream.UniFW.Quest.TestQuestData
+  nameWithType: TestQuestData
+- uid: Scream.UniFW.Quest.TestQuestData.#ctor(System.Int32)
+  name: TestQuestData(Int32)
+  href: api/Scream.UniFW.Quest.TestQuestData.html#Scream_UniFW_Quest_TestQuestData__ctor_System_Int32_
+  commentId: M:Scream.UniFW.Quest.TestQuestData.#ctor(System.Int32)
+  fullName: Scream.UniFW.Quest.TestQuestData.TestQuestData(System.Int32)
+  nameWithType: TestQuestData.TestQuestData(Int32)
+- uid: Scream.UniFW.Quest.TestQuestData.#ctor*
+  name: TestQuestData
+  href: api/Scream.UniFW.Quest.TestQuestData.html#Scream_UniFW_Quest_TestQuestData__ctor_
+  commentId: Overload:Scream.UniFW.Quest.TestQuestData.#ctor
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuestData.TestQuestData
+  nameWithType: TestQuestData.TestQuestData
+- uid: Scream.UniFW.Quest.TestQuestData.Count
+  name: Count
+  href: api/Scream.UniFW.Quest.TestQuestData.html#Scream_UniFW_Quest_TestQuestData_Count
+  commentId: P:Scream.UniFW.Quest.TestQuestData.Count
+  fullName: Scream.UniFW.Quest.TestQuestData.Count
+  nameWithType: TestQuestData.Count
+- uid: Scream.UniFW.Quest.TestQuestData.Count*
+  name: Count
+  href: api/Scream.UniFW.Quest.TestQuestData.html#Scream_UniFW_Quest_TestQuestData_Count_
+  commentId: Overload:Scream.UniFW.Quest.TestQuestData.Count
+  isSpec: "True"
+  fullName: Scream.UniFW.Quest.TestQuestData.Count
+  nameWithType: TestQuestData.Count
